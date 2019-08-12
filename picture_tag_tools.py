@@ -164,7 +164,7 @@ class Window( QWidget ):
 
 
 def main(argv):
-    print '\n'.join(argv)
+    print('\n'.join(argv))
     pic_root = "F:/pic/test/finish_copy"
     god_folder = "F:/pic/pic_classification/pic_good"
     bad_folder = "F:/pic/pic_classification/pic_bad"
